@@ -1,0 +1,11 @@
+body{
+    background-color: lightgrey;
+}
+.container1{
+    background-color: gainsboro;
+}
+
+.formContainer{
+    background-color: whitesmoke;
+    height: 500px;
+}
